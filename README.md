@@ -1,6 +1,5 @@
 # 19-C-Train
 19级Android实验室(人工智能+移动互联) C语言培训
-# 2019-C语言培训
 # Hello World(第一个程序)
 ```c
     #include <stdio.h>  // 包含另一个文件
