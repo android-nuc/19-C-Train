@@ -232,7 +232,7 @@
     **题：写一个冒泡排序**
     [冒泡排序可视化](https://visualgo.net/zh/sorting "冒泡排序")
 * 二维数组
-    * ![ ](D:\File\GoogleDownLoad\two_array.jpg)
+    * ![ ](https://github.com/android-nuc/19-C-Train/blob/master/images/two_array.jpg)
     * 二维数组的定义
         ```
         数据类型 数组名[整型变量表达式][整型变量表达式];
